@@ -1,0 +1,9 @@
+title = "LEGO Legends of Chima: Laval's Journey"
+description = "LEGO Legends of Chima: Laval’s Journey for Citra 3DS Emulator Released on 1st June 2013, an Action game Developed by TT Games and Published by Warner Bros Interactive.The game is based on the LEGO City brand and was published by Nintendo."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "00040000000AF800"
+region = "usa"
+release_date = "2013-06-01"
